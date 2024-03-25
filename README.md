@@ -2,64 +2,39 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Meal time is the part of the day that is most full of flavor, color and creativity, the fact that we find ourselves taking care of our eating habits does not mean that we cannot enjoy this delicious moment.
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Therefore, with this course, we intend to present some options for starter meals, which are those that we serve before presenting the main course. These dishes have been designed to help us take care of our diet in the lightest, most pleasant and appetizing, putting a little attention and balance in the ingredients to use, to achieve the exact combination of pleasure when sitting at the table and being able to enjoy this time to the fullest.
+
+
+In the development of each dish, you will be informed of the number of calories of each dish per serving.
+
+
+![screenshot](/img/Screenshot_1.jpg)
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-languages: english.
+
+-tecnologies used: HTML.
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+👤 **Jhony Jhoadson Mijares**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Arístides José Molina Pérez**
-
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: jhoadsonmijares12
+-instagram: jhoadsonmijares 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/jhoadsonmijares12/odin-recipes/issues).
 
 ## Show your support
 
@@ -67,9 +42,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- google. 
+- recetas gratis. 
+- imagination.
 
 ## 📝 License
 
