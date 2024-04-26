@@ -1,0 +1,10 @@
+body {
+  background-image: url(./img/imagenFondoIndex.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
