@@ -1,10 +1,61 @@
-body {
+body{
+  background: linear-gradient(#5f66a3, #152a30);
+}
+
+/*Para ponerle una imagen en el main*/
+/*main{ 
   background-image: url(./img/imagenFondoIndex.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-}
+}*/
 
 h1{
   font-family: Arial, Helvetica, Sans serif;
+  font-size: 100px;
+  color: rgb(196, 255, 230);
+  text-align: center;
+  height: auto;
+  width: auto;
+}
 
+h2{
+  font-family: Arial, Helvetica, Sans serif;
+  color: azure;
+  text-align: center;
+  height: auto px;
+  width: auto;
+}
+.recipes{
+  width: 300px;
+  height: auto;
+
+}
+
+
+li a{
+  font: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+
+}
+
+.list-cheese-pizza{
+  width: 400px;
+  height: auto;
+  font-family: Arial, Helvetica, Sans serif;
+  color: white;
+}
+
+.list-pastaCarbonara{
+  width: 6em;
+  height: auto;
+  font-family: Arial, Helvetica, Sans serif;
+  color: white;
+}
+
+.list-picana{
+  width: 400px;
+  height: auto;
+  font-family: Arial, Helvetica, Sans serif;
+  color: white;
 }
