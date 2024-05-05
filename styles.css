@@ -10,52 +10,58 @@ body{
 }*/
 
 h1{
-  font-family: Arial, Helvetica, Sans serif;
-  font-size: 100px;
-  color: rgb(196, 255, 230);
-  text-align: center;
-  height: auto;
   width: auto;
+  height: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color: rgb(196, 255, 230); /*Color de la fuente*/
+  text-align: center;
 }
 
 h2{
-  font-family: Arial, Helvetica, Sans serif;
+  width: auto;
+  height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
   color: azure;
   text-align: center;
-  height: auto px;
-  width: auto;
+  
 }
+
 .recipes{
-  width: 300px;
+  display: inline-block;
+  width: auto;
   height: auto;
-
 }
 
-
-li a{
-  font: 100px;
+.list{
+  display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
-  font-style: normal;
-
-}
-
-.list-cheese-pizza{
-  width: 400px;
-  height: auto;
-  font-family: Arial, Helvetica, Sans serif;
   color: white;
+  text-align: center;
+  margin: 2px auto;
+  padding: 30px;
+  border: 8px #152a30;
+  border-radius: 25px;
 }
 
-.list-pastaCarbonara{
-  width: 6em;
-  height: auto;
-  font-family: Arial, Helvetica, Sans serif;
+
+.list-pizzas, .list-pastas, .list-meats{
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
   color: white;
+  text-align: center;
+  margin: 2px auto;
+  padding: 30px;
+  border: 8px #152a30;
+  border-radius: 25px;
 }
 
-.list-picana{
-  width: 400px;
-  height: auto;
-  font-family: Arial, Helvetica, Sans serif;
-  color: white;
+img {
+  width: 350px;
+  height: 275px;
+  border-radius: 25px;
 }
+
+
+
